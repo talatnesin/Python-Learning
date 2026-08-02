@@ -1,4 +1,0 @@
-print("₺50 is $1") 
-tl = float(input("Enter ₺:"))
-dollar = tl / 50
-print(f"₺{tl} is ₺{dollar}")
